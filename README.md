@@ -1,6 +1,6 @@
  
 # Exotic Derivative Pricing: Asian & Barrier Options
-
+https://github.com/user-attachments/assets/732e3c89-afca-47e5-b410-a596ccc6423a
 Leveraging Monte Carlo simulation and Euler discretization of Geometric Brownian Motion (GBM), this project prices digital and barrier options, computes option payoffs, and visualizes simulated asset paths and price distributions through informative graphs. An interactive Streamlit app (located in `app.py`) provides a user-friendly interface to explore the pricing models.
 
 ## Table of Contents
@@ -104,7 +104,7 @@ The app allows you to:
 ## Theory & Methodology
 
 
-https://github.com/user-attachments/assets/732e3c89-afca-47e5-b410-a596ccc6423a
+
 
 
 ### Geometric Brownian Motion & Euler Discretization
